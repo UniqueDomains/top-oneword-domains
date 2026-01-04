@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .TOP one-word domains still available to buy.
 
-This dataset contains 7,304 .TOP one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,303 .TOP one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.TOP one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=top-oneword-domains&utm_content=description.top) (7,304) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -48,7 +48,7 @@ If you want to search & filters the complete database of [.TOP one word domains]
 | abkhazian.top  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.top    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.top   | available | 68       | 3%     | 8      |           |         |         |
-| able.top       | premium   | 80       | 26%    | 4      |           |         |         |
+| able.top       | premium   | 80       | 25%    | 4      |           |         |         |
 | abloom.top     | available | 72       | 5%     | 6      |           |         |         |
 | abnaki.top     | available | 68       | 2%     | 6      |           |         |         |
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.TOP one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
