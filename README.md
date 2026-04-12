@@ -1,22 +1,22 @@
-# Available .TOP One-Word Domains (5,622,079)
+# Available .TOP One-Word Domains (7,421)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C419%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C079%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C422%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C421%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .top one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .top one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,419-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,079 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,419 rows · **Live catalog:** 5,622,079 domains
+**Public extract:** 7,422 rows · **Live catalog:** 7,421 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/top`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TOP one-word domain c
 
 ### Files
 
-- `top.csv` — public CSV extract (7,419 rows)
-- `top.json` — public JSON extract (7,419 rows)
+- `top.csv` — public CSV extract (7,422 rows)
+- `top.json` — public JSON extract (7,422 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -68,7 +68,7 @@ print(df.head())
 | checkout.top      | resell    | —           | —             | 68             | 79     | 9      | Dynadot LLC  |
 | converse.top      | premium   | $53.78      | $53.78        | 64             | 73     | 8      | name.com     |
 | passive.top       | available | $6.98       | —             | 66             | 18     | 7      | namecheap    |
-| audible.top       | resell    | —           | —             | 112            | 74     | 7      | Dynadot LLC  |
+| audible.top       | resell    | —           | —             | 112            | 73     | 7      | Dynadot LLC  |
 | seventeen.top     | premium   | $53.78      | $53.78        | 84             | 62     | 9      | name.com     |
 | monumental.top    | available | $6.98       | —             | 70             | 17     | 10     | namecheap    |
 | windows.top       | resell    | —           | —             | 58             | 67     | 7      | 成都西维数码科技有限公司 |
@@ -76,13 +76,13 @@ print(df.head())
 | environmental.top | available | $6.98       | —             | 84             | 16     | 13     | namecheap    |
 | smart.top         | resell    | —           | —             | 74             | 56     | 5      | 阿里云计算有限公司    |
 | sex.top           | premium   | $59,225     | —             | 80             | 59     | 3      | 成都西维数码科技有限公司 |
-| actionable.top    | available | $6.98       | —             | 88             | 15     | 10     | namecheap    |
+| activist.top      | available | $6.98       | —             | 88             | 14     | 8      | namecheap    |
 | business.top      | resell    | —           | —             | 100            | 53     | 8      | Dynadot LLC  |
 | good.top          | premium   | $23,000     | $14.99        | 82             | 55     | 4      | 阿里云计算有限公司    |
-| diplomacy.top     | available | $6.98       | —             | 73             | 15     | 9      | namecheap    |
+| actionable.top    | available | $6.98       | —             | 88             | 14     | 10     | namecheap    |
 | love.top          | resell    | —           | —             | 86             | 52     | 4      | 阿里云计算有限公司    |
 | book.top          | premium   | $118,448.82 | —             | 82             | 55     | 4      | Dynadot LLC  |
-| doable.top        | available | $6.98       | —             | 96             | 14     | 6      | namecheap    |
+| rectify.top       | available | $6.98       | —             | 78             | 14     | 7      | namecheap    |
 | design.top        | resell    | —           | —             | 108            | 50     | 6      | 阿里云计算有限公司    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,419-row public sample | 5,622,079 live domains                           |
+| 7,422-row public sample | 7,421 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
