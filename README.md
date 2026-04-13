@@ -1,10 +1,10 @@
-# Available .TOP One-Word Domains (7,421)
+# Available .TOP One-Word Domains (7,422)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C424%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C421%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C422%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .top one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,424 rows · **Live catalog:** 7,421 domains
+**Public extract:** 7,424 rows · **Live catalog:** 7,422 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/top`  
@@ -72,10 +72,10 @@ print(df.head())
 | seventeen.top     | premium   | $53.78      | $53.78        | 84             | 62     | 9      | name.com     |
 | monumental.top    | available | $6.98       | —             | 70             | 17     | 10     | namecheap    |
 | windows.top       | resell    | —           | —             | 58             | 67     | 7      | 成都西维数码科技有限公司 |
-| free.top          | premium   | $12,117.80  | $14.99        | 88             | 59     | 4      | name.com     |
+| sex.top           | premium   | $59,225     | —             | 80             | 59     | 3      | 成都西维数码科技有限公司 |
 | environmental.top | available | $6.98       | —             | 84             | 16     | 13     | namecheap    |
 | smart.top         | resell    | —           | —             | 74             | 56     | 5      | 阿里云计算有限公司    |
-| sex.top           | premium   | $59,225     | —             | 80             | 59     | 3      | 成都西维数码科技有限公司 |
+| free.top          | premium   | $12,117.80  | $14.99        | 88             | 57     | 4      | name.com     |
 | activist.top      | available | $6.98       | —             | 88             | 14     | 8      | namecheap    |
 | business.top      | resell    | —           | —             | 100            | 53     | 8      | Dynadot LLC  |
 | good.top          | premium   | $23,000     | $14.99        | 82             | 55     | 4      | 阿里云计算有限公司    |
@@ -83,7 +83,7 @@ print(df.head())
 | love.top          | resell    | —           | —             | 86             | 51     | 4      | 阿里云计算有限公司    |
 | book.top          | premium   | $118,448.82 | —             | 82             | 55     | 4      | Dynadot LLC  |
 | rectify.top       | available | $6.98       | —             | 78             | 14     | 7      | namecheap    |
-| design.top        | resell    | —           | —             | 108            | 50     | 6      | 阿里云计算有限公司    |
+| life.top          | resell    | —           | —             | 84             | 50     | 4      | 阿里云计算有限公司    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,424-row public sample | 7,421 live domains                               |
+| 7,424-row public sample | 7,422 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
