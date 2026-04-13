@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C422%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C424%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C421%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .top one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,422 rows · **Live catalog:** 7,421 domains
+**Public extract:** 7,424 rows · **Live catalog:** 7,421 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/top`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TOP one-word domain c
 
 ### Files
 
-- `top.csv` — public CSV extract (7,422 rows)
-- `top.json` — public JSON extract (7,422 rows)
+- `top.csv` — public CSV extract (7,424 rows)
+- `top.json` — public JSON extract (7,424 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -80,7 +80,7 @@ print(df.head())
 | business.top      | resell    | —           | —             | 100            | 53     | 8      | Dynadot LLC  |
 | good.top          | premium   | $23,000     | $14.99        | 82             | 55     | 4      | 阿里云计算有限公司    |
 | actionable.top    | available | $6.98       | —             | 88             | 14     | 10     | namecheap    |
-| love.top          | resell    | —           | —             | 86             | 52     | 4      | 阿里云计算有限公司    |
+| love.top          | resell    | —           | —             | 86             | 51     | 4      | 阿里云计算有限公司    |
 | book.top          | premium   | $118,448.82 | —             | 82             | 55     | 4      | Dynadot LLC  |
 | rectify.top       | available | $6.98       | —             | 78             | 14     | 7      | namecheap    |
 | design.top        | resell    | —           | —             | 108            | 50     | 6      | 阿里云计算有限公司    |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,422-row public sample | 7,421 live domains                               |
+| 7,424-row public sample | 7,421 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
