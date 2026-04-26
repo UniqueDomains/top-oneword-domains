@@ -1,22 +1,22 @@
-# Available .TOP One-Word Domains (7,422)
+# Available .TOP One-Word Domains (9,362)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C424%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C422%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C362%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .top one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .top one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,362 domains** on the canonical page below.
 
-**Public extract:** 7,424 rows · **Live catalog:** 7,422 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,362 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/top`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TOP one-word domain c
 
 ### Files
 
-- `top.csv` — public CSV extract (7,424 rows)
-- `top.json` — public JSON extract (7,424 rows)
+- `top.csv` — public CSV extract (1,000 rows)
+- `top.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------ |
-| remedial.top      | available | $6.98       | —             | 86             | 24     | 8      | namecheap    |
-| checkout.top      | resell    | —           | —             | 68             | 79     | 9      | Dynadot LLC  |
-| converse.top      | premium   | $53.78      | $53.78        | 64             | 73     | 8      | name.com     |
-| passive.top       | available | $6.98       | —             | 66             | 18     | 7      | namecheap    |
-| audible.top       | resell    | —           | —             | 112            | 73     | 7      | Dynadot LLC  |
-| seventeen.top     | premium   | $53.78      | $53.78        | 84             | 62     | 9      | name.com     |
-| monumental.top    | available | $6.98       | —             | 70             | 17     | 10     | namecheap    |
-| windows.top       | resell    | —           | —             | 58             | 67     | 7      | 成都西维数码科技有限公司 |
-| sex.top           | premium   | $59,225     | —             | 80             | 59     | 3      | 成都西维数码科技有限公司 |
-| environmental.top | available | $6.98       | —             | 84             | 16     | 13     | namecheap    |
-| smart.top         | resell    | —           | —             | 74             | 56     | 5      | 阿里云计算有限公司    |
-| free.top          | premium   | $12,117.80  | $14.99        | 88             | 57     | 4      | name.com     |
-| activist.top      | available | $6.98       | —             | 88             | 14     | 8      | namecheap    |
-| business.top      | resell    | —           | —             | 100            | 53     | 8      | Dynadot LLC  |
-| good.top          | premium   | $23,000     | $14.99        | 82             | 55     | 4      | 阿里云计算有限公司    |
-| actionable.top    | available | $6.98       | —             | 88             | 14     | 10     | namecheap    |
-| love.top          | resell    | —           | —             | 86             | 51     | 4      | 阿里云计算有限公司    |
-| book.top          | premium   | $118,448.82 | —             | 82             | 55     | 4      | Dynadot LLC  |
-| rectify.top       | available | $6.98       | —             | 78             | 14     | 7      | namecheap    |
-| life.top          | resell    | —           | —             | 84             | 50     | 4      | 阿里云计算有限公司    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| keepthechange.top | available | $6.98     | —             | 46             | 59     | 15     | namecheap       |
+| cannabis.top      | resell    | —         | —             | 71             | 50     | 8      | Dynadot LLC     |
+| winners.top       | premium   | $1,184.50 | —             | 60             | 81     | 7      | 西部数码国际有限公司      |
+| stadia.top        | available | $6.98     | —             | 66             | 22     | 6      | namecheap       |
+| robots.top        | resell    | —         | —             | 62             | 47     | 6      | Spaceship, Inc. |
+| donuts.top        | premium   | $91.43    | —             | 54             | 62     | 6      | name.com        |
+| techsupport.top   | available | $6.98     | —             | 76             | 18     | 12     | namecheap       |
+| coins.top         | resell    | —         | —             | 56             | 41     | 5      | 西部数码国际有限公司      |
+| justin.top        | premium   | $91.45    | —             | 58             | 38     | 7      | name.com        |
+| bonvoyage.top     | available | $6.98     | —             | 88             | 16     | 10     | namecheap       |
+| aliens.top        | resell    | —         | —             | 56             | 35     | 6      | Porkbun LLC     |
+| maps.top          | premium   | $182.85   | —             | 56             | 31     | 4      | name.com        |
+| couples.top       | available | $6.98     | —             | 52             | 14     | 7      | namecheap       |
+| whatnot.top       | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc. |
+| rewards.top       | premium   | $2,013.65 | —             | 62             | 30     | 7      | 成都西维数码科技有限公司    |
+| appreciation.top  | available | $6.98     | —             | 88             | 13     | 12     | namecheap       |
+| quotes.top        | resell    | —         | —             | 58             | 29     | 6      | 成都西维数码科技有限公司    |
+| fierce.top        | premium   | $2,354.79 | —             | 72             | 28     | 6      | Porkbun LLC     |
+| candles.top       | available | $6.98     | —             | 67             | 13     | 7      | namecheap       |
+| dogs.top          | resell    | —         | —             | 76             | 28     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,424-row public sample | 7,422 live domains                               |
+| 1,000-row public sample | 9,362 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
