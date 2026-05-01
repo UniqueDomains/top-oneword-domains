@@ -1,10 +1,10 @@
-# Available .TOP One-Word Domains (9,362)
+# Available .TOP One-Word Domains (9,672)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C362%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C672%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .top one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,362 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,672 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,362 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,672 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/top`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| keepthechange.top | available | $6.98     | —             | 46             | 59     | 15     | namecheap       |
-| cannabis.top      | resell    | —         | —             | 71             | 50     | 8      | Dynadot LLC     |
-| winners.top       | premium   | $1,184.50 | —             | 60             | 81     | 7      | 西部数码国际有限公司      |
-| stadia.top        | available | $6.98     | —             | 66             | 22     | 6      | namecheap       |
-| robots.top        | resell    | —         | —             | 62             | 47     | 6      | Spaceship, Inc. |
-| donuts.top        | premium   | $91.43    | —             | 54             | 62     | 6      | name.com        |
-| techsupport.top   | available | $6.98     | —             | 76             | 18     | 12     | namecheap       |
-| coins.top         | resell    | —         | —             | 56             | 41     | 5      | 西部数码国际有限公司      |
-| justin.top        | premium   | $91.45    | —             | 58             | 38     | 7      | name.com        |
-| bonvoyage.top     | available | $6.98     | —             | 88             | 16     | 10     | namecheap       |
-| aliens.top        | resell    | —         | —             | 56             | 35     | 6      | Porkbun LLC     |
-| maps.top          | premium   | $182.85   | —             | 56             | 31     | 4      | name.com        |
-| couples.top       | available | $6.98     | —             | 52             | 14     | 7      | namecheap       |
-| whatnot.top       | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc. |
-| rewards.top       | premium   | $2,013.65 | —             | 62             | 30     | 7      | 成都西维数码科技有限公司    |
-| appreciation.top  | available | $6.98     | —             | 88             | 13     | 12     | namecheap       |
-| quotes.top        | resell    | —         | —             | 58             | 29     | 6      | 成都西维数码科技有限公司    |
-| fierce.top        | premium   | $2,354.79 | —             | 72             | 28     | 6      | Porkbun LLC     |
-| candles.top       | available | $6.98     | —             | 67             | 13     | 7      | namecheap       |
-| dogs.top          | resell    | —         | —             | 76             | 28     | 4      | Spaceship, Inc. |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| keepthechange.top | available | $6.98      | —             | 46             | 59     | 15     | namecheap       |
+| robots.top        | resell    | —          | —             | 62             | 47     | 6      | Spaceship, Inc. |
+| donuts.top        | premium   | $91.43     | —             | 54             | 62     | 6      | name.com        |
+| stadia.top        | available | $6.98      | —             | 66             | 22     | 6      | namecheap       |
+| coins.top         | resell    | —          | —             | 56             | 41     | 5      | 西部数码国际有限公司      |
+| justin.top        | premium   | $91.45     | —             | 58             | 38     | 7      | name.com        |
+| techsupport.top   | available | $6.98      | —             | 76             | 18     | 12     | namecheap       |
+| whatnot.top       | resell    | —          | —             | 58             | 33     | 8      | Spaceship, Inc. |
+| rewards.top       | premium   | $2,013.65  | —             | 62             | 30     | 7      | 成都西维数码科技有限公司    |
+| bonvoyage.top     | available | $6.98      | —             | 88             | 16     | 10     | namecheap       |
+| quotes.top        | resell    | —          | —             | 58             | 29     | 6      | 成都西维数码科技有限公司    |
+| fierce.top        | premium   | $2,354.79  | —             | 72             | 28     | 6      | Porkbun LLC     |
+| couples.top       | available | $6.98      | —             | 52             | 14     | 7      | namecheap       |
+| dogs.top          | resell    | —          | —             | 76             | 28     | 4      | Spaceship, Inc. |
+| Trex.top          | premium   | $102.40    | $102.40       | 80             | 24     | 5      | namecheap       |
+| appreciation.top  | available | $6.98      | —             | 88             | 13     | 12     | namecheap       |
+| photos.top        | resell    | —          | —             | 54             | 28     | 6      | 成都西维数码科技有限公司    |
+| toys.top          | premium   | $13,986.58 | —             | 60             | 24     | 4      | 阿里云计算有限公司       |
+| candles.top       | available | $6.98      | —             | 67             | 13     | 7      | namecheap       |
+| bees.top          | resell    | —          | —             | 54             | 27     | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,362 live domains                               |
+| 1,000-row public sample | 9,672 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
