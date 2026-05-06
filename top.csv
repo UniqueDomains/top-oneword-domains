@@ -194,6 +194,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 175c5728-f511-4597-8b26-ca8076ce6f28,businessmen.top,available,1.88,4.88,74,4,11,namesilo,,
 1788cf5b-0e06-46bc-945e-a579a42997ee,survived.top,available,1.88,4.88,54,5,8,namesilo,,
 178f89fb-988f-4446-a8f7-62df276c07dd,breastfeeding.top,available,6.98,,66,10,13,namecheap,,
+1815c1ae-b4f0-4b31-a014-2aad2ef5cbc8,oatmeal.top,premium,,,74,10,7,,,
 1829f32e-fb02-4428-826a-c63f1032d598,newsstand.top,available,6.98,,52,5,10,namecheap,,
 184e0389-d04d-49ad-ae5f-bb116fd2b129,explanations.top,available,6.98,,50,2,12,namecheap,,
 1869d365-d552-4327-a1ff-a49ec0de6f0a,refusing.top,available,6.98,,40,3,8,namecheap,,
@@ -435,7 +436,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36592e44-ec52-4a60-8c83-1c2e1a21defd,Germanfries.top,available,1.88,4.88,82,1,12,namesilo,,
 3686584b-3d08-445c-86e0-5dc4a4673cd2,referees.top,available,1.88,4.88,55,4,8,namesilo,,
 36d0c65a-edec-469b-9a95-5b42c6ae1a83,whips.top,available,6.98,,52,7,5,namecheap,,
-36df5528-7c53-435b-a784-07fb33254d1e,batman.top,premium,2656.83,,86,21,6,成都西维数码科技有限公司,20/02/2024 00:01,20/02/2027 00:01
+36df5528-7c53-435b-a784-07fb33254d1e,batman.top,premium,2656.83,,86,20,6,成都西维数码科技有限公司,20/02/2024 00:01,20/02/2027 00:01
 36e348e9-a1a6-42e8-a6e3-b2d575ecadd4,landedproperty.top,available,6.98,,42,1,15,namecheap,,
 3700b749-192d-4595-a470-f0742c37ed3d,costcutting.top,available,6.98,,64,3,12,namecheap,,
 373ace34-6d4c-4a24-b6ba-94a17d7f246f,joints.top,available,1.88,4.88,48,8,6,namesilo,,
@@ -841,6 +842,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64ef2dba-c3fd-4ab0-b67f-bb2856cd8b07,packingtape.top,available,6.98,,70,2,12,namecheap,,
 655e1193-00ef-4c04-acb6-f2aaf1ab3d40,stared.top,available,6.98,,56,4,6,namecheap,,
 656c46b6-db67-4ac2-9409-62d10eea5609,pours.top,available,6.98,,46,5,5,namecheap,,
+657eaa8d-9fd8-4316-afae-afc900f99f93,giraffe.top,premium,,,78,21,7,,,
 6581d4bf-9117-47a8-b0f8-efac451801ea,ohmygoodness.top,available,6.98,,50,4,14,namecheap,,
 6594f83e-3037-48cb-8989-03848a5d10ff,turningback.top,available,1.88,4.88,53,2,12,namesilo,,
 65cdbdf4-d9b2-4586-b616-a4d623bbb238,windowdisplay.top,available,6.98,,42,2,14,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 76b60fed-fa19-421d-884a-3271a3ad0fcf,haveway.top,available,6.98,,74,1,8,namecheap,,
 76b887c6-b14f-4db8-9ed9-c25985b580d3,couples.top,available,6.98,,52,14,7,namecheap,,
 76f19307-42d4-47c8-8f4c-50726f6e46b3,disorders.top,available,1.88,4.88,46,5,9,namesilo,,
-76f65bc2-60df-44c8-b049-acaebfacb517,nailed.top,available,6.98,,58,6,6,namecheap,,
-771540cb-cfdc-43be-8a59-81c0ed600925,gothrough.top,available,6.98,,70,2,10,namecheap,,
