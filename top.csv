@@ -254,6 +254,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1e759a41-ca05-48ea-a6f8-229c9cbecafc,decidedness.top,available,1.88,4.88,74,1,11,namesilo,,
 1e7fa1ea-928a-4648-86a3-89b203d13e1e,majorityminority.top,available,6.98,,42,0,17,namecheap,,
 1e82d67e-e065-4b01-8ced-72c1c8b80574,multipurpose.top,available,6.98,,54,4,13,namecheap,,
+1f058e7a-4427-444b-8f00-b76f02af4a62,jelly.top,premium,,,79,24,5,,,
 1f291615-e5be-454c-b711-18f08c0da6e4,gonumberone.top,available,1.88,4.88,40,1,13,namesilo,,
 1f422d47-e99a-4baa-8e53-f7a0fee499ac,flashflooding.top,available,6.98,,52,0,14,namecheap,,
 1faba652-ce2b-4872-ad10-0a84f230877e,ambitiousness.top,available,6.98,,74,1,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7697bdc7-057c-4114-85d9-8da13fe1276f,remarks.top,available,6.98,,56,6,7,namecheap,,
 76b60fed-fa19-421d-884a-3271a3ad0fcf,haveway.top,available,6.98,,74,1,8,namecheap,,
 76b887c6-b14f-4db8-9ed9-c25985b580d3,couples.top,available,6.98,,52,14,7,namecheap,,
-76f19307-42d4-47c8-8f4c-50726f6e46b3,disorders.top,available,1.88,4.88,46,5,9,namesilo,,
