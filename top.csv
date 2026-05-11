@@ -70,6 +70,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 08fbe868-0cca-4eb1-8aec-27cee998dacf,keephouse.top,available,6.98,,70,2,10,namecheap,,
 0916e9b4-0921-4f3a-8007-63bd88bd4278,CountyofWilkinson.top,available,1.88,4.88,42,1,19,namesilo,,
 091b8d1f-6ad8-4f43-a430-e6313673e8a2,organisations.top,available,1.88,4.88,52,3,13,namesilo,,
+092d1fdd-b646-4b7b-9fc9-66eccde83841,consulting.top,resell,,,76,30,10,西部数码国际有限公司,27/01/2017 18:00,27/01/2027 18:00
 09346ddd-71bb-46a5-b9e6-88dbe5acbc55,splints.top,available,6.98,,63,1,7,namecheap,,
 095ef61f-ef81-4a0c-8476-b7e11b7c1ddd,dads.top,premium,18.15,18.15,60,17,4,namesilo,,
 097912d5-dafb-4232-8c3a-7d21f40c8e22,GreatBarrierReef.top,available,6.98,,64,4,18,namecheap,,
@@ -469,6 +470,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a09c9f1-e1b9-487f-b51c-dd29db705a41,childclass.top,available,6.98,,50,1,11,namecheap,,
 3a13bfde-f256-48da-a164-fc3d9483060d,woodentruss.top,available,6.98,,56,1,12,namecheap,,
 3a230c88-9370-4830-8aeb-e11222e77e1e,isles.top,available,1.88,4.88,52,7,5,namesilo,,
+3a40d795-aac4-48f4-969b-fd775e5b9a76,hardluck.top,premium,,,64,3,9,,,
 3a5cab99-1510-4edb-9998-7a8d1e276a28,difficulties.top,available,6.98,,70,3,12,namecheap,,
 3aa1b216-835f-40d6-ac4b-6e90871478e5,boilingpoint.top,available,6.98,,60,3,13,namecheap,,
 3af05a19-ebf1-43b1-ba47-95982913d54c,getsick.top,available,6.98,,72,1,8,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 766aca98-07f8-479d-ab24-11ddaa720428,genericterm.top,available,6.98,,68,0,12,namecheap,,
 768337ea-704e-415e-911e-8fb146f80ed3,breastcancer.top,available,6.98,,58,9,13,namecheap,,
 768d18f2-88f0-4423-b05e-a8a52ecc338d,showingup.top,available,1.88,4.88,59,4,10,namesilo,,
-7697bdc7-057c-4114-85d9-8da13fe1276f,remarks.top,available,6.98,,56,6,7,namecheap,,
-76b60fed-fa19-421d-884a-3271a3ad0fcf,haveway.top,available,6.98,,74,1,8,namecheap,,
