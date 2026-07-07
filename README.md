@@ -1,10 +1,10 @@
-# Available .TOP One-Word Domains (9,700)
+# Available .TOP One-Word Domains (9,702)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C700%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C702%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .top one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,700 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,702 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,700 domains · **Median ask:** $1,244.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,702 domains · **Median ask:** $869.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/top`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/top`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TOP one-word domain c
 
 ### Files
 
-- `top.csv` — public CSV extract (1,000 rows)
-- `top.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `top.csv`, public CSV extract (1,000 rows)
+- `top.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| barup.top         | available | $6.98     | —             | 82             | 2      | 6      | namecheap       |
-| dogsit.top        | available | $6.98     | —             | 96             | 2      | 6      | namecheap       |
-| croptop.top       | available | $6.98     | —             | 80             | 4      | 8      | namecheap       |
-| presents.top      | available | $6.98     | —             | 80             | 9      | 8      | namecheap       |
-| fitinto.top       | available | $6.98     | —             | 84             | 1      | 8      | namecheap       |
-| chaitea.top       | available | $6.98     | —             | 86             | 3      | 8      | namecheap       |
-| makenews.top      | available | $6.98     | —             | 80             | 1      | 9      | namecheap       |
-| becalled.top      | available | $1.88     | $4.88         | 86             | 2      | 9      | namesilo        |
-| turninto.top      | available | $6.98     | —             | 86             | 3      | 9      | namecheap       |
-| letitbe.top       | available | $6.98     | —             | 89             | 8      | 9      | namecheap       |
-| fasttimes.top     | available | $6.98     | —             | 80             | 3      | 10     | namecheap       |
-| makewhole.top     | available | $6.98     | —             | 80             | 1      | 10     | namecheap       |
-| keepthechange.top | available | $6.98     | —             | 46             | 59     | 15     | namecheap       |
-| robots.top        | resell    | —         | —             | 62             | 47     | 6      | Spaceship, Inc. |
-| donuts.top        | premium   | $91.43    | —             | 54             | 62     | 6      | name.com        |
-| stadia.top        | available | $6.98     | —             | 66             | 22     | 6      | namecheap       |
-| coins.top         | resell    | —         | —             | 56             | 41     | 5      | 西部数码国际有限公司      |
-| justin.top        | premium   | $91.45    | —             | 58             | 38     | 7      | name.com        |
-| techsupport.top   | available | $6.98     | —             | 76             | 18     | 12     | namecheap       |
-| whatnot.top       | resell    | —         | —             | 58             | 33     | 8      | Spaceship, Inc. |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| erupt.top | available | $1.88     | $4.88         | high           | low    | 5      | namesilo       |
+| golf.top  | resell    | —         | —             | high           | medium | 4      | 阿里云计算有限公司      |
+| ago.top   | premium   | $363.54   | $363.54       | medium         | low    | 3      | name.com       |
+| fewer.top | available | $1.88     | $4.88         | medium         | low    | 5      | namesilo       |
+| snap.top  | resell    | —         | —             | high           | medium | 4      | 阿里云计算有限公司      |
+| are.top   | premium   | $5,019.37 | —             | high           | low    | 3      | name.com       |
+| froze.top | available | $1.88     | $4.88         | medium         | low    | 5      | namesilo       |
+| wine.top  | resell    | —         | —             | high           | low    | 4      | 阿里云计算有限公司      |
+| bed.top   | premium   | $915.30   | —             | high           | low    | 3      | name.com       |
+| holes.top | available | $1.88     | $4.88         | medium         | low    | 5      | namesilo       |
+| bonus.top | resell    | —         | —             | high           | low    | 5      | 阿里云计算有限公司      |
+| bud.top   | premium   | $91.50    | —             | high           | low    | 3      | name.com       |
+| orso.top  | available | $6.98     | —             | medium         | low    | 5      | namecheap      |
+| chain.top | resell    | —         | —             | medium         | low    | 5      | 成都西维数码科技有限公司   |
+| err.top   | premium   | $91.90    | —             | high           | low    | 3      | name.com       |
+| Ropes.top | available | $1.88     | $4.88         | medium         | low    | 5      | namesilo       |
+| shoes.top | resell    | —         | —             | high           | low    | 5      | 成都西维数码科技有限公司   |
+| fat.top   | premium   | $914.07   | —             | medium         | low    | 3      | name.com       |
+| shush.top | available | $1.88     | $4.88         | medium         | low    | 5      | namesilo       |
+| snack.top | resell    | —         | —             | high           | low    | 5      | Namecheap Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,700 live domains                         |
+| 1,000-row public sample | 9,702 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .top domains. The set includes literal words, phrase-like compounds, and conversational forms such as edamame.top, dogsit.top, QandA.top, getlife.top, and presents.top. For founders, the main question is whether the word is memorable, easy to say, and specific enough to support a real brand. For investors, the key test is whether the ask leaves room for a reasonable spread relative to how broadly the word can appeal. The median ask is $1,216, so stronger names should justify that level with clarity, recognizability, and clean commercial use.
+This list of one-word .top domains spans 9,702 names with a median ask around $869.21, giving founders and investors a broad set of brandable, single-word options to compare. Names like dogsit.top, video.top, and pictures.top show how the .top extension pairs short, everyday words into memorable domain names. Because pricing varies widely across this set, comparing ask price against the word's clarity, length, and industry fit is the fastest way to separate strong picks from the rest.
 
-- Prioritize clear words over awkward or confusing constructions
-- Check if the ask fits the word's breadth and resale potential
-- Favor names that sound natural when spoken aloud
-- Review spelling, capitalization, and possible trademark friction
+- 9,702 one-word .top domain names in this selection
+- Median ask near $869.21 across the set
+- Short, everyday words paired into brandable names
+- Spans many industries, from tech to lifestyle terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
