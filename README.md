@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .top one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,447 domains · **Median ask:** $269.85 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/top`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| feel.top  | premium   | $9,924.82 | —             | high           | low    | 4      | name.com    |
-| come.top  | premium   | $274.60   | —             | high           | low    | 4      | name.com    |
-| quiet.top | premium   | $274.45   | —             | high           | low    | 5      | name.com    |
-| here.top  | premium   | $731.61   | —             | high           | medium | 4      | name.com    |
-| what.top  | premium   | $735.22   | —             | high           | low    | 4      | name.com    |
-| lxxv.top  | available | $2.98     | $6.98         | low            | low    | 4      | namecheap   |
-| box.top   | resell    | —         | —             | low            | low    | 3      | Dynadot LLC |
-| ago.top   | premium   | $360.31   | $360.31       | low            | low    | 3      | namesilo    |
-| agaze.top | available | $1.88     | $4.88         | low            | low    | 5      | namesilo    |
-| golf.top  | resell    | —         | —             | high           | medium | 4      | 阿里云计算有限公司   |
-| are.top   | premium   | $5,019.37 | —             | high           | low    | 3      | name.com    |
-| alary.top | available | $1.88     | $4.88         | low            | low    | 5      | namesilo    |
-| snap.top  | resell    | —         | —             | high           | medium | 4      | 阿里云计算有限公司   |
-| bed.top   | premium   | $915.30   | —             | high           | low    | 3      | name.com    |
-| aleut.top | available | $1.88     | $4.88         | low            | low    | 5      | namesilo    |
-| wine.top  | resell    | —         | —             | high           | low    | 4      | 阿里云计算有限公司   |
-| bud.top   | premium   | $91.50    | —             | high           | low    | 3      | name.com    |
-| burly.top | available | $1.88     | $4.88         | low            | low    | 5      | namesilo    |
-| bonus.top | resell    | —         | —             | high           | low    | 5      | 阿里云计算有限公司   |
-| cxv.top   | premium   | $82.59    | $82.59        | low            | low    | 3      | namesilo    |
+| domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
+| --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| feel.top  | premium   | $9,924.82  | —             | high           | low    | 4      | name.com            |
+| come.top  | premium   | $274.60    | —             | high           | low    | 4      | name.com            |
+| here.top  | premium   | $731.61    | —             | high           | medium | 4      | name.com            |
+| what.top  | premium   | $735.22    | —             | high           | low    | 4      | name.com            |
+| lxii.top  | available | $1.88      | $4.88         | medium         | low    | 4      | namesilo            |
+| top.top   | resell    | —          | —             | high           | medium | 3      | Gname.com Pte. Ltd. |
+| ant.top   | premium   | $915.31    | —             | high           | medium | 3      | name.com            |
+| lxxv.top  | available | $2.98      | $6.98         | medium         | low    | 4      | namecheap           |
+| toy.top   | resell    | —          | —             | high           | low    | 3      | 阿里云计算有限公司           |
+| are.top   | premium   | $5,019.37  | —             | high           | low    | 3      | name.com            |
+| acerb.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| golf.top  | resell    | —          | —             | high           | medium | 4      | 阿里云计算有限公司           |
+| bed.top   | premium   | $915.30    | —             | high           | low    | 3      | name.com            |
+| alary.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| wine.top  | resell    | —          | —             | high           | low    | 4      | 阿里云计算有限公司           |
+| boy.top   | premium   | $14,845.82 | —             | high           | low    | 3      | name.com            |
+| aleut.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| bonus.top | resell    | —          | —             | high           | low    | 5      | 阿里云计算有限公司           |
+| bud.top   | premium   | $91.50     | —             | high           | low    | 3      | name.com            |
+| burly.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
