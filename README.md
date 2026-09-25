@@ -1,10 +1,10 @@
-# Available .TOP One-Word Domains (26,447)
+# Available .TOP One-Word Domains (11,057)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C447%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C057%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .top one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,447 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,057 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,447 domains · **Median ask:** $269.85 · **High-demand under $2,500:** 24
+**Public extract:** 1,000 rows · **Live catalog:** 11,057 domains · **Median ask:** $488.99 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/top`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain    | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
 | --------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| feel.top  | premium   | $9,924.82  | —             | high           | low    | 4      | name.com            |
-| come.top  | premium   | $274.60    | —             | high           | low    | 4      | name.com            |
-| here.top  | premium   | $731.61    | —             | high           | medium | 4      | name.com            |
-| what.top  | premium   | $735.22    | —             | high           | low    | 4      | name.com            |
 | lxii.top  | available | $1.88      | $4.88         | medium         | low    | 4      | namesilo            |
 | top.top   | resell    | —          | —             | high           | medium | 3      | Gname.com Pte. Ltd. |
 | ant.top   | premium   | $915.31    | —             | high           | medium | 3      | name.com            |
 | lxxv.top  | available | $2.98      | $6.98         | medium         | low    | 4      | namecheap           |
 | toy.top   | resell    | —          | —             | high           | low    | 3      | 阿里云计算有限公司           |
 | are.top   | premium   | $5,019.37  | —             | high           | low    | 3      | name.com            |
-| acerb.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| xxiv.top  | available | $1.88      | $4.88         | high           | low    | 4      | namesilo            |
 | golf.top  | resell    | —          | —             | high           | medium | 4      | 阿里云计算有限公司           |
-| bed.top   | premium   | $915.30    | —             | high           | low    | 3      | name.com            |
+| arm.top   | premium   | $915.31    | —             | high           | medium | 3      | name.com            |
+| acerb.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| html.top  | resell    | —          | —             | high           | low    | 4      | 阿里云计算有限公司           |
+| ash.top   | premium   | $115.87    | —             | high           | low    | 3      | name.com            |
 | alary.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
 | wine.top  | resell    | —          | —             | high           | low    | 4      | 阿里云计算有限公司           |
-| boy.top   | premium   | $14,845.82 | —             | high           | low    | 3      | name.com            |
-| aleut.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| bed.top   | premium   | $915.30    | —             | high           | low    | 3      | name.com            |
+| aleut.top | available | $1.88      | $4.88         | high           | low    | 5      | namesilo            |
 | bonus.top | resell    | —          | —             | high           | low    | 5      | 阿里云计算有限公司           |
-| bud.top   | premium   | $91.50     | —             | high           | low    | 3      | name.com            |
+| boy.top   | premium   | $14,845.82 | —             | high           | low    | 3      | name.com            |
 | burly.top | available | $1.88      | $4.88         | medium         | low    | 5      | namesilo            |
+| chain.top | resell    | —          | —             | high           | low    | 5      | 成都西维数码科技有限公司        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,447 live domains                        |
+| 1,000-row public sample | 11,057 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 24 high-demand names under $2,500          |
+| Basic exported fields   | 22 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOP One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
